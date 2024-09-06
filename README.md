@@ -26,11 +26,10 @@ Soy un estudiante del ciclo formativo de **Administración de Sistemas Informát
 ---
 
 ### GitHub Analytics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Micu-dady&show_icons=true&theme=radical)
 
 ---
 
 ### Contacto
-- [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)
-- [Email](mailto:tuemail@example.com)
+- [Email](davidd23diz@gmail.com)
 
