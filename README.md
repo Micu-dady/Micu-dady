@@ -31,5 +31,5 @@ Soy un estudiante del ciclo superior formativo de **Administración de Sistemas 
 ---
 
 ### Contacto
-- [Email](mailto:davidd23diz@gmail.com)
+- [Email](mailto:davidd23diz@gmail.com) - davidd23diz@gmail.com
 
