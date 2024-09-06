@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy un estudiante de ASIR
 
 ### Sobre mí
-Soy un estudiante del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasiona la tecnología, la administración de sistemas y el desarrollo de scripts para automatizar tareas.
+Soy un estudiante del ciclo superior formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasiona la tecnología, la administración de sistemas y el desarrollo de scripts para automatizar tareas.
 
 ---
 
@@ -31,5 +31,5 @@ Soy un estudiante del ciclo formativo de **Administración de Sistemas Informát
 ---
 
 ### Contacto
-- [Email](davidd23diz@gmail.com)
+- [Email](mailto:davidd23diz@gmail.com)
 
